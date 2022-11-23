@@ -1,0 +1,11 @@
+{
+  "name": "mobjam",
+  "id": "1177320959326993923",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "editorType": [
+    "figjam"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}
